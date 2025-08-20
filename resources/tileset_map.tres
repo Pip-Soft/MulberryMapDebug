@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="TilesetMap" load_steps=2 format=3 uid="uid://8tbg8r7bl5dj"]
+
+[ext_resource type="Script" path="res://mulberry/tileset/tileset_map/tileset_map.gd" id="1_nh420"]
+
+[resource]
+script = ExtResource("1_nh420")
+correspondence = []
+default_atlas_dimensions = ["32x32", "64x64", "92x128"]
+source_id_dimensions = []
+ignored_source_ids = []
+source_id_ignore_keywords = ["ignore", "water"]
